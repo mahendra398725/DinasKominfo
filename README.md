@@ -1,7 +1,7 @@
 # DinasKominfo
  Web Permohonan Pengajuan Menara Telekomunikasi dan Fiber Optik
  
- Untuk pertama hanya bisa login sebagai ADMIN dengan akun coba
+ Untuk pertama hanya bisa login sebagai ADMIN dengan akun uji
  -> admin@mail.test
  -> 12345678
  
